@@ -18,5 +18,6 @@ public class AppTest
         System.out.println("test1......");
         System.out.println("test2......");
         System.out.println("test3......");
+        System.out.println("test4......");
     }
 }
